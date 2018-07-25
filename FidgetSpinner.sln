@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FidgetSpinner.CSharp", "FidgetSpinner.CSharp.csproj", "{B8CC2E8D-8237-F10C-BBA2-2A97988353A5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FidgetSpinner.CSharp.Editor", "FidgetSpinner.CSharp.Editor.csproj", "{9B7E0B30-A371-6D22-4B54-07A35B5F33B4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B8CC2E8D-8237-F10C-BBA2-2A97988353A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8CC2E8D-8237-F10C-BBA2-2A97988353A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8CC2E8D-8237-F10C-BBA2-2A97988353A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8CC2E8D-8237-F10C-BBA2-2A97988353A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B7E0B30-A371-6D22-4B54-07A35B5F33B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B7E0B30-A371-6D22-4B54-07A35B5F33B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B7E0B30-A371-6D22-4B54-07A35B5F33B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B7E0B30-A371-6D22-4B54-07A35B5F33B4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
